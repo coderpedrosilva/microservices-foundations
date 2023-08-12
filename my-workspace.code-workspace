@@ -3,6 +3,13 @@
 		{
 			"name": "eureka-service",
 			"path": "eureka-service"
+		},
+		{
+			"name": "zuul-service",
+			"path": "zuul-service"
 		}
-	]
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
 }
