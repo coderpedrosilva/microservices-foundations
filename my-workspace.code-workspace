@@ -7,9 +7,13 @@
 		{
 			"name": "zuul-service",
 			"path": "zuul-service"
+		},
+		{
+			"name": "controle-de-pessoas",
+			"path": "controle-de-pessoas"
 		}
 	],
 	"settings": {
-		"java.configuration.updateBuildConfiguration": "interactive"
+		"java.configuration.updateBuildConfiguration": "automatic"
 	}
 }
