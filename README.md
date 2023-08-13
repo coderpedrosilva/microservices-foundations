@@ -5,7 +5,7 @@ Neste repositório o foco é a construção das bases iniciais para um projeto d
 No primeiro passo, foi desenvolvido o serviço Eureka, responsável pelo registro e descoberta dos 
 microsserviços. Em seguida, o foco se direcionou para a criação do gateway, onde o Zuul foi 
 configurado para otimizar o roteamento seguro de requisições entre os diferentes microsserviços. 
-Por fim, o terceiro e crucial passo consistiu na criação do microsserviço central do projeto, que 
+Por fim, o terceiro passo consistiu na criação do microsserviço central do projeto, que 
 lida com o controle de informações sobre pessoas. Esse microsserviço foi integrado com as 
 configurações de comunicação e descoberta estabelecidas anteriormente.
 
