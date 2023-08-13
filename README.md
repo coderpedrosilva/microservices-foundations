@@ -1,4 +1,4 @@
-# first-microservices
+# microservices-foundations
 
 Neste repositório o foco é a construção das bases iniciais para um projeto de microsserviços. 
 
